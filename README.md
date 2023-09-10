@@ -6,8 +6,8 @@
 完成的功能：用户登陆注册、漫画管理、用户权限管理、菜单动态添加、修改按钮颜色、数据大屏等，<br/>
 ## 演示图片
 ![](./public/home.png)
+![](./public/pm.png)
 ![](./public/menu.png)
-![](./public/mee.png)
 ![](public/list.png)
 # shop-main
 服务器使用node.js与mongodb写的接口
