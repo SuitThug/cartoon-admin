@@ -5,8 +5,10 @@
 有些地方代码我是觉得写得挺烂的，有时间在优化一下.<br/>
 完成的功能：用户登陆注册、漫画管理、用户权限管理、菜单动态添加、修改按钮颜色、数据大屏等，<br/>
 ## 演示图片
-[首页](./public/home.png)
-[首页](public/home.png)
+![](./public/home.png)
+![](./public/pm.png)
+![](./public/mune.png)
+![](public/list.png)
 # shop-main
 服务器使用node.js与mongodb写的接口
 地址：[shop-main](https://github.com/SuitThug/shop-main)
