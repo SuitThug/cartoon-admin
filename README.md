@@ -8,26 +8,21 @@
 服务器使用node.js与mongodb写的接口
 地址：[shop-main](https://github.com/SuitThug/shop-main)
 
-## Project Setup
+## 配置
 
 ```sh
 pnpm install
 ```
 
-### Compile and Hot-Reload for Development
+### 运行
 
 ```sh
 pnpm run dev
 ```
 
-### Type-Check, Compile and Minify for Production
+### 打包
 
 ```sh
 pnpm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
