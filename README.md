@@ -6,7 +6,7 @@
 
 # shop-main
 服务器使用node.js与mongodb写的接口
-地址：[shop-main]([URL](https://github.com/SuitThug/shop-main))
+地址：[shop-main](https://github.com/SuitThug/shop-main)
 
 ## Project Setup
 
